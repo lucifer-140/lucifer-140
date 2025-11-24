@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/anv.png" width="100%" alt="Welcome to my Coding Corner banner" />
+  <img src="images\banner.png" width="100%" alt="Welcome to my Coding Corner banner" />
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight:600;">Dave Jansen Ongkaputra</h1>
   <p><i>A calm, focused space for creation and exploration — built with code and curiosity.</i></p>
 </div>
