@@ -52,23 +52,14 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
 </p> -->
 
-**Frontend:**
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue.js · TailwindCSS · Bootstrap
-
-**Backend:**
-Node.js · PHP · Laravel · Express.js · Flask · Django
-
-**Mobile & UI:**
-Flutter · Kotlin · Android Studio · Figma · Photoshop
-
-**Database & ORM:**
-PostgreSQL · MySQL · SQLite · MongoDB · Prisma
-
-**Data & AI:**
-Python · Pandas · TensorFlow · PyTorch · OpenCV · MATLAB
-
-**DevOps & Tools:**
-Docker · Git · Postman · Vercel · Nginx
+| Category           | Technologies                                                                              |
+| ------------------ | ----------------------------------------------------------------------------------------- |
+| **Frontend**       | HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue.js · TailwindCSS · Bootstrap |
+| **Backend**        | Node.js · PHP · Laravel · Express.js · Flask · Django                                     |
+| **Mobile & UI**    | Flutter · Kotlin · Android Studio · Figma · Photoshop                                     |
+| **Database & ORM** | PostgreSQL · MySQL · SQLite · MongoDB · Prisma                                            |
+| **Data & AI**      | Python · Pandas · TensorFlow · PyTorch · OpenCV · MATLAB                                  |
+| **DevOps & Tools** | Docker · Git · Postman · Vercel · Nginx                                                   |
 
 
 ---
