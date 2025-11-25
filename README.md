@@ -16,10 +16,11 @@
 
 ## Current Projects
 
-| Project                   | Description                                                                    |
-| ------------------------- | ------------------------------------------------------------------------------ |
-| **E2EE Chat Application** | Encrypted messaging platform using Sender Keys and secure group communication. |
-| **SignLingo**             | Sign language recognition via keypoint tracking and machine learning.          |
+| Project                                   | Description                                                                                                                                                     |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **E2EE Chat Application**                 | Encrypted messaging platform using Sender Keys and secure group communication.                                                                                  |
+| **SignLingo**                             | Sign language recognition via keypoint tracking and machine learning.                                                                                           |
+| **Office System for Transporindo Export** | Internal management system for handling export operations, document processing, invoices, payments, and workflow automation across departments. |
 
 ---
 
